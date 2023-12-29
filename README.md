@@ -22,20 +22,7 @@
 ## راه حل سوم:
  به جای ذخیره کلیه موارد i+j میتوان آنرا داخل یک متغیر long ذخیره کرد
 
- در این عکس میتوان میزان نصرف حافظه و پردازنده را پس از بهینه سازی تابع temp مشاهده کرد
+ در این عکس میتوان میزان نصرف حافظه و پردازنده را پس از بهینه سازی تابع temp مشاهده کرد<br><br>
 
- ## Image 1
-   ![Alt text](link_to_image1)
-
- ## Section 1
-   Text for Section 1.
-
- <br><br>
-
- ## Image 2
-   ![Alt text](link_to_image2)
-
- ## Section 2
-   Text for Section 2.
-
-<br><br>
+ ![Alt text](https://github.com/HamedMajdi/Java-Profiling-with-YourKit/blob/master/CPU%20-%20After%20Optimization.png)<br>
+ ![Alt text](https://github.com/HamedMajdi/Java-Profiling-with-YourKit/blob/master/Memory%20-%20After%20Optimization.png)
