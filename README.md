@@ -26,9 +26,13 @@
 
  ![Alt text](https://github.com/HamedMajdi/Java-Profiling-with-YourKit/blob/master/CPU%20-%20After%20Optimization.png)<br>
  ![Alt text](https://github.com/HamedMajdi/Java-Profiling-with-YourKit/blob/master/Memory%20-%20After%20Optimization.png)<br><br>
-# سوال 1
+# سوال 2
 در این سوال از تابع فیبوناچی استفاده گردید
 در حالت اول برنامه از یک تابع بازگشتی استفاده میکند که به هیچ عنوان برای اعداد بزرگ مناسب نمیباشد.
 میزان مصرف CPU در تصاویر زیر گویاست:
-![Alt text](https://github.com/HamedMajdi/Java-Profiling-with-YourKit/blob/master/Fibonacci%20%20Optimized.png)<br><br>)<br><br>
- ![Alt text](https://github.com/HamedMajdi/Java-Profiling-with-YourKit/blob/master/Fibonacci%20%20Optimized.png)<br><br>
+![Alt text](https://github.com/HamedMajdi/Java-Profiling-with-YourKit/blob/master/Fibonacci%20.png)<br><br>
+
+## روش بهینه
+در این روش به جای استفاده از توابع بازگشتی از توابع تکرار شونده استفاده گردید. در نسخه دوم، متد fibonacci() از یک حلقه استفاده می‌کند تا اعداد فیبوناچی را محاسبه کند، که از هزینه تماس‌های بازگشتی و خطر سرریز پشته جلوگیری می‌کند. این عمل باعث افزایش کارایی برای ورودی‌های بزرگتر می‌شود.<br><br>
+
+![Alt text](https://github.com/HamedMajdi/Java-Profiling-with-YourKit/blob/master/Fibonacci%20%20Optimized.png)<br><br>
