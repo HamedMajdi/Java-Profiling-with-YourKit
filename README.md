@@ -8,6 +8,11 @@
  <br>
  ![Alt text](https://github.com/HamedMajdi/Java-Profiling-with-YourKit/blob/master/Memory%20-%20After%20temp%20method.png)
 <br>
+<br>
+همچنین میزان استفاده از CPU نیز به شکل زیر تغییر میکند:
+ ![Alt text](https://github.com/HamedMajdi/Java-Profiling-with-YourKit/blob/master/CPU%20-%20Before%20temp%20method%20.png)
+ ![Alt text](https://github.com/HamedMajdi/Java-Profiling-with-YourKit/blob/master/CPU%20-%20After%20temp%20method.png)
+
  ## Image 1
    ![Alt text](link_to_image1)
 
