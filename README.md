@@ -25,4 +25,8 @@
  در این عکس میتوان میزان نصرف حافظه و پردازنده را پس از بهینه سازی تابع temp مشاهده کرد<br><br>
 
  ![Alt text](https://github.com/HamedMajdi/Java-Profiling-with-YourKit/blob/master/CPU%20-%20After%20Optimization.png)<br>
- ![Alt text](https://github.com/HamedMajdi/Java-Profiling-with-YourKit/blob/master/Memory%20-%20After%20Optimization.png)
+ ![Alt text](https://github.com/HamedMajdi/Java-Profiling-with-YourKit/blob/master/Memory%20-%20After%20Optimization.png)<br><br>
+# سوال 1
+در این سوال از تابع فیبوناچی استفاده گردید
+در حالت اول برنامه از یک تابع بازگشتی استفاده میکند که به هیچ عنوان برای اعداد بزرگ مناسب نمیباشد.
+میزان مصرف CPU در تصاویر زیر گویاست:
