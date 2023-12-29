@@ -30,3 +30,5 @@
 در این سوال از تابع فیبوناچی استفاده گردید
 در حالت اول برنامه از یک تابع بازگشتی استفاده میکند که به هیچ عنوان برای اعداد بزرگ مناسب نمیباشد.
 میزان مصرف CPU در تصاویر زیر گویاست:
+![Alt text](https://github.com/HamedMajdi/Java-Profiling-with-YourKit/blob/master/Fibonacci%20%20Optimized.png)<br><br>)<br><br>
+ ![Alt text](https://github.com/HamedMajdi/Java-Profiling-with-YourKit/blob/master/Fibonacci%20%20Optimized.png)<br><br>
