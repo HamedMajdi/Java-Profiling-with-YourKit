@@ -1,11 +1,13 @@
  ## توضیحات برنامه
 در نسخه اولیه برنامه تابع temp() بیشترین میزان استفاده از حافظه و CPU را به خود اختصاص میدهد 
  <br>
-میزان استفاده از حافظه در عکص زیر مشخص است" 
+میزان استفاده از حافظه در عکس زیر مشخص است 
  <br>
- ![Alt text](
+ ![Alt text](https://github.com/HamedMajdi/Java-Profiling-with-YourKit/blob/master/Memory%20-%20Before%20temp%20method%20.png)
 <br>
-
+ <br>
+ ![Alt text](https://github.com/HamedMajdi/Java-Profiling-with-YourKit/blob/master/Memory%20-%20After%20temp%20method.png)
+<br>
  ## Image 1
    ![Alt text](link_to_image1)
 
